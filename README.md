@@ -1,4 +1,6 @@
-http://teams.live.com/meet.9383448682483?p=pUER75TahahCjAzu4T entrar a meet 
+//http://teams.live.com/meet.9383448682483?p=pUER75TahahCjAzu4T entrar a meet 
+//Para subirlo en local debemos poner el codigo una vez guardado en la terminal de mvn spring-boot:run
+//en el Firefox agregamos http://localhost:8080/index.html en teoria deberia de cargar
 
 <!DOCTYPE html>
 <html lang="es">
