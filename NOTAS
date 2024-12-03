@@ -3,3 +3,7 @@ Para poder usar el JQUERY DEBO SIEMPRE PONER:
 Esta linea me podrá dar las librerías y funcionalidad de mi código.
 Esta linea la debo agregar siempre en HTML.
 
+Para implementar un Script basico por ejemplo dar una orden de ocultar con "hide", haremos lo siguiente:
+1. Insertar el siguiente comando jQuery(document).ready(function(){
+                                $("#Secreto").hide();
+                                })
