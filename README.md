@@ -2,6 +2,8 @@
 //Para subirlo en local debemos poner el codigo una vez guardado en la terminal de mvn spring-boot:run
 //en el Firefox agregamos http://localhost:8080/index.html en teoria deberia de cargar
 
+// https://enthuware.com/ hacer ejercicios para la certificacion
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
