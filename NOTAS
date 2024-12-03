@@ -1,0 +1,5 @@
+Para poder usar el JQUERY DEBO SIEMPRE PONER:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+Esta linea me podrá dar las librerías y funcionalidad de mi código.
+Esta linea la debo agregar siempre en HTML.
+
